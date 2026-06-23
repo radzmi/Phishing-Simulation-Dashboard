@@ -43,3 +43,34 @@ The second page focuses on translating phishing simulation results into business
 - Total data stolen by campaign
 
 This page helps identify which departments and phishing campaigns contribute the most to organizational risk and potential financial loss.
+
+
+## Key Insights
+
+From the dashboard analysis:
+
+- Certain departments show higher phishing susceptibility based on click rate and risk score.
+- Campaigns such as fake payroll updates and shared document invitations create higher employee engagement and risk.
+- Credential submission and data exposure are key indicators of severe phishing impact.
+- Annualized Loss Expectancy helps convert cybersecurity risk into financial terms that business stakeholders can understand.
+- Department-level risk ranking helps prioritize follow-up actions and awareness efforts.
+
+
+## Tools Used
+- Power BI Desktop
+- DAX Measures
+- CSV Dataset
+- Data Visualization
+- Risk Scoring
+- Cybersecurity Analytics
+
+## Main Power BI Features Applied
+- KPI cards
+- Line charts
+- Bar charts
+- Donut chart
+- Interactive slicers
+- Percentage-based measures
+- Financial risk metrics
+- Department-level analysis
+- Campaign-level performance analysis
