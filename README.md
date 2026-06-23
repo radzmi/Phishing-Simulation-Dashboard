@@ -15,19 +15,19 @@ The dashboard is designed to support cybersecurity teams and management in ident
 
 The first page provides a high-level overview of the phishing simulation results. It includes key performance indicators such as:
 
-Total recipients tested
-Click rate
-Credential submission rate
-Security score
-Total data stolen
-Total Annualized Loss Expectancy (ALE)
+- Total recipients tested
+- Click rate
+- Credential submission rate
+- Security score
+- Total data stolen
+- Total Annualized Loss Expectancy (ALE)
 
 This page also includes visual analysis for:
 
-Monthly phishing trend
-Campaign performance by click rate
-Department risk ranking
-Click rate, report rate, and credential submission rate comparison
+- Monthly phishing trend
+- Campaign performance by click rate
+- Department risk ranking
+- Click rate, report rate, and credential submission rate comparison
 
 The purpose of this page is to give management a quick understanding of overall phishing risk and employee response behavior.
 
@@ -37,9 +37,9 @@ The purpose of this page is to give management a quick understanding of overall 
 
 The second page focuses on translating phishing simulation results into business risk. It includes:
 
-Average risk score by department
-Severity distribution
-Total ALE by department
-Total data stolen by campaign
+- Average risk score by department
+- Severity distribution
+- Total ALE by department
+- Total data stolen by campaign
 
 This page helps identify which departments and phishing campaigns contribute the most to organizational risk and potential financial loss.
