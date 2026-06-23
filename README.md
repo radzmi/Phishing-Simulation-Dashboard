@@ -1,2 +1,7 @@
 # Phishing Simulation Dashboard
-![image]([https://github.com/radzmi/STQD6324_Data_Management_Assignment2/assets/152348714/97f1b503-f429-454a-9bdf-9866ab1b91b4](https://github.com/radzmi/Phishing-Simulation-Dashboard/blob/main/SS/column-security-05-hero.png))
+![image](SS/column-security-05-hero.png)
+
+
+This project is an interactive Cybersecurity Phishing Simulation Dashboard built using Power BI. The dashboard analyzes simulated phishing test results across employees, departments, campaigns, and risk categories to help business users understand phishing exposure, employee behavior, and potential business impact.
+
+The dashboard is designed to support cybersecurity teams and management in identifying high-risk departments, evaluating phishing campaign performance, monitoring security awareness indicators, and estimating potential financial exposure through Annualized Loss Expectancy (ALE).
