@@ -15,7 +15,7 @@ The objective of this project is to demonstrate how phishing simulation data can
 
 ## 1. Executive Summary
 
-![image](SS/Slide_1.png)
+![image](SS/Picture_1.png)
 
 
 The first page provides a high-level overview of the phishing simulation results. It includes key performance indicators such as:
@@ -38,7 +38,7 @@ The purpose of this page is to give management a quick understanding of overall 
 
 ## 2.Risk & Business Impact
 
-![image](SS/Slide_2.png)
+![image](SS/Picture_2.png)
 
 The second page focuses on translating phishing simulation results into business risk. It includes:
 
