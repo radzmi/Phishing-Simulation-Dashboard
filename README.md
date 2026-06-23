@@ -7,6 +7,11 @@ This project is an interactive Cybersecurity Phishing Simulation Dashboard built
 The dashboard is designed to support cybersecurity teams and management in identifying high-risk departments, evaluating phishing campaign performance, monitoring security awareness indicators, and estimating potential financial exposure through Annualized Loss Expectancy (ALE).
 
 
+## Project Objective
+
+The objective of this project is to demonstrate how phishing simulation data can be transformed into a clear and business-friendly dashboard. Instead of only showing technical cybersecurity metrics, this dashboard presents phishing risk in terms of employee behavior, department exposure, severity level, and estimated financial impact.
+
+
 
 ## 1. Executive Summary
 
@@ -74,3 +79,16 @@ From the dashboard analysis:
 - Financial risk metrics
 - Department-level analysis
 - Campaign-level performance analysis
+
+## Example Metrics Created
+- Click Rate
+- Report Rate
+- Credential Submission Rate
+- Security Score
+- Average Risk Score
+- Total Data Stolen
+- Total Annualized Loss Expectancy
+- Severity Distribution
+- Department Risk Ranking
+
+  
